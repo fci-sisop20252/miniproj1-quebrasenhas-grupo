@@ -12,7 +12,8 @@
 
 **Código relevante:** Cole aqui a parte do coordinator.c onde você calcula a divisão:
 ```c
-// Cole seu código de divisão aqui
+long long passwords_per_worker = total_space / num_workers;
+    long long remaining = total_space % num_workers;
 ```
 
 ---
