@@ -1,6 +1,6 @@
 # Relatório: Mini-Projeto 1 - Quebra-Senhas Paralelo
 
-**Aluno(s):** Nome (Matrícula), Nome (Matrícula),,,  
+**Aluno(s):** Gabriel de Mendonça Pires (10420236) 
 ---
 
 ## 1. Estratégia de Paralelização
